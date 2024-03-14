@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface instrument {
+public interface instrument {
+    public void play();
+    public void tune(char note);
 }
